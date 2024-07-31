@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi 👋, I'm Arvia Faustina Ardhan
+    Hi 👋, I'm Tegar Wirawan
   </h1>
   <h3>
     A passionate Frontend Developer from Indonesia
