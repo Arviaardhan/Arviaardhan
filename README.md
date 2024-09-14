@@ -3,7 +3,7 @@
     Hi 👋, I'm Arvia Faustina Ardhan
   </h1>
   <h3>
-    A passionate Frontend Developer from Indonesia
+    A passionate Frontend Mobile Developer from Indonesia
   </h3>
 </div>
 
