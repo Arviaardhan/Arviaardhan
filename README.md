@@ -9,7 +9,7 @@
 
 🌱 I’m currently learning Flutter. <br/> <br/>
 💬 Ask me about anything related to coding if I can help. <br/> <br/>
-📫 How to reach me: arviaardhan@gmail.com <br/> <br/>
+📫 How to reach me: arviaardhan@gmail.com  <br/> <br/>
 ⚡ Fun fact I like Storytelling <br/> <br/>
 
 ## 🌐 Socials :
